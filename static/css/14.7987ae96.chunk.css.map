@@ -1,0 +1,1 @@
+{"version":3,"sources":["Settings.scss","Header.scss"],"names":[],"mappings":"AAAA,WACI,SAAU,CCDd,YACI,iBAAkB","file":"14.7987ae96.chunk.css","sourcesContent":[".error-msg {\n    color: red;\n}",".side-right{\n    margin-right: 50px;\n}"]}

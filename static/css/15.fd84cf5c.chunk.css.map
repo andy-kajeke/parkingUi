@@ -1,0 +1,1 @@
+{"version":3,"sources":["Login.scss"],"names":[],"mappings":"AAAA,OACI,wBAAyB,CAC5B,UAEG,SAAU","file":"15.fd84cf5c.chunk.css","sourcesContent":[".login {\n    background-color: #536872;\n}\n.erro-msg {\n    color: red;\n}"]}
